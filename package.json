@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "async": "^3.2.4",
+    "await": "^0.2.6",
+    "firebase": "^9.15.0",
+    "useref": "^1.4.4"
+  }
+}
